@@ -89,7 +89,7 @@ traktor_parser.add_playlists_to_tree(record_parser.playlists)
 traktor_parser.save_file()
 ```
 
-Open Traktor, the new playlists appear in the collection.
+Open Traktor, the new playlists appear in the collection. You made a mistake or the `collection.nml` is corrupted ? A backup file named `collection.nml.bak` was created on the same folder as the `collection.nml` file, you can use it as a second chance !
 
 ## What about next ?
 
