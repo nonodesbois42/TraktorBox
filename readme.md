@@ -90,3 +90,7 @@ traktor_parser.save_file()
 ```
 
 Open Traktor, the new playlists appear in the collection.
+
+## What about next ?
+
+Any questions, suggestions, bug ? Feel free to contact me, it will be a pleasure to exchange with you.
